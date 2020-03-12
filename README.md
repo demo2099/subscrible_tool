@@ -1,5 +1,5 @@
 # README
-如果你不知道怎么使用这个工具，请看[这个视频](https://www.youtube.com/watch?v=1Pm2gzSDaX0)。
+如果你不知道怎么使用这个工具，请看[这个视频](https://youtu.be/gEi-C90_xHM)。
 用到的指令
 
 npm run build
